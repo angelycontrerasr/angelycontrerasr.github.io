@@ -21,6 +21,7 @@ header {
   }
 body {
     background-color: burlywood;
+    font-family: sans-serif;
 }
 ul {
     list-style-type: none;
