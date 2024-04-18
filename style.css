@@ -1,0 +1,41 @@
+header {
+    background-color: #e99e60; /* Color de fondo del encabezado */
+    padding: 10px 20px; /* Margen interno */
+  }
+  
+  nav ul {
+    list-style: none; /* Elimina los puntos de lista */
+    margin: 0; /* Elimina el margen superior */
+    padding: 0; /* Elimina el relleno */
+  }
+  
+  nav li {
+    display: inline-block; /* Muestra los elementos de la lista en línea */
+    margin-right: 20px; /* Margen entre elementos de la lista */
+  }
+  
+  nav a {
+    color: #0f0e0e; /* Color del texto de los enlaces */
+    text-decoration: none; /* Elimina la decoración subyacente */
+    font-weight: bold; /* Texto en negrita */
+  }
+body {
+    background-color: burlywood;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 20px; /* Adjust spacing between items */
+  }
+  
+  img {
+    display: block; /* Ensure images are on separate lines */
+    max-width: 100%; /* Adjust maximum width of the image */
+  }
+  
+  p {
+    margin: 0; /* Remove default margin for paragraphs */
+  }
